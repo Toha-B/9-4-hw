@@ -19,6 +19,7 @@
 
 *Приложите скриншот конфига из интерфейса Prometheus вкладки Status > Configuration.*
 ![3.1](./scrshts/tz_3.1.png)
+
 *Приложите скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта.*
 ![3.2](./scrshts/tz_3.2.png)
 
